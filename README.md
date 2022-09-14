@@ -26,4 +26,4 @@ python function even or odd.py
 remove_common_words.py
 season.py
 share trading max profir.py
-
+4.2 prg for non teachingstaff

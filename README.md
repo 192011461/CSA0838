@@ -27,3 +27,8 @@ remove_common_words.py
 season.py
 share trading max profir.py
 4.2 prg for non teachingstaff
+4.1 prg for array string.py
+4.3 prg for smaller current number.py
+4.4 prg for valid palindrome.py
+4.6 prg for remove character.py
+4.8 prg for Roman to integer.py

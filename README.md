@@ -9,10 +9,6 @@ Area of water.py
 Bakery.py
 CHARACTERS.PY
 Happy_number[1].py
-
-README.md
-Initial commit
-4 days ago
 day 3 good pairs.py
 duplicates in permutations.py
 factorial_of_a_number .py

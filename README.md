@@ -26,13 +26,16 @@ python function even or odd.py
 remove_common_words.py
 season.py
 share trading max profir.py
-4.2 prg for non teachingstaff
 4.1 prg for array string.py
+4.2 prg for non teachingstaff
 4.3 prg for smaller current number.py
 4.4 prg for valid palindrome.py
+4.5 prg for min no of jumps.py
 4.6 prg for remove character.py
+4.7 prg for count sorted vowel string.py
 4.8 prg for Roman to integer.py
 4.9 prg for season .py
+4.10 prg for scrambling string.py
 5.1 prg for length of last word.py
 5.2 prg for Employee salary .py
 5.3 prg for least num for perfect number.py

@@ -33,3 +33,10 @@ share trading max profir.py
 4.6 prg for remove character.py
 4.8 prg for Roman to integer.py
 4.9 prg for season .py
+5.1 prg for length of last word.py
+5.10 prg for reverse word.py
+5.2 prg for Employee salary .py
+5.3 prg for least num for perfect number.py
+5.4 prg for YEAH and NAH.py
+5.6 prg for pascal triangle.py
+5.9 prg for function shuffling.py
